@@ -82,6 +82,13 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 12px;
 }
 
+li{
+    margin-top: 8px;
+}
+
+p{
+    margin-top: 8px;
+}
 
 hr {
     margin-bottom: 8px;
@@ -206,7 +213,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
 
     width: 1050px;
-    height: 1550px;
+    height: 2350px;
     background-color: white;
 
 }
