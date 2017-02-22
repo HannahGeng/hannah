@@ -138,9 +138,6 @@ body {
     zoom: 80%;
 }
 
-footer {
-}
-
 p {
     line-height: 1.5;
 }
@@ -240,13 +237,13 @@ progress::-moz-progress-bar {
 
 }
 
-.info-header:hover {
-    background-color: #d4dee4;
-}
+/*.info-header:hover {*/
+    /*background-color: #d4dee4;*/
+/*}*/
 
-.info-unit ul li:hover {
-    background-color: #d4dee4;
-}
+/*.info-unit ul li:hover {*/
+    /*background-color: #d4dee4;*/
+/*}*/
 
 .info-header .unit-remove {
     float: right;
