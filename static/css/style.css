@@ -30,7 +30,7 @@ span {
 }
 
 .label-value{
-    width: 200px;
+    width: 250px;
     vertical-align: top;
 }
 
@@ -178,22 +178,9 @@ progress::-moz-progress-bar {
     margin-bottom: 20px;
 }
 
-.weixin{
-    margin-top: 20px;
-    background-color: #e0eaf0;   
-    position: relative;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    text-align: center;
-}
-
-.weixin img{
-    width: 200px;
-}
-
 .left-label {
     display: inline-block;
-    width: 120px;
+    width: 100px;
 }
 
 .portrait {
@@ -213,7 +200,7 @@ progress::-moz-progress-bar {
 .container {
     position: relative;
     margin: 0 auto;
-    width: 1200px;
+    width: 1100px;
     height: 1500px;
     background-color: white;
 
@@ -221,7 +208,7 @@ progress::-moz-progress-bar {
 
 .side {
     position: absolute;
-    width: 380px;
+    width: 400px;
     height: 100%;
     background-color: whitesmoke;
     padding-left: 20px;
@@ -231,7 +218,7 @@ progress::-moz-progress-bar {
 .main {
     
     position: relative;;
-    margin-left: 380px;
+    margin-left: 390px;
     min-height: 100%;
     padding: 20px;
 
