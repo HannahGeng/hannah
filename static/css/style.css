@@ -200,7 +200,7 @@ progress::-moz-progress-bar {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('http://p0.qhimg.com/t0133bad35a78103170.png');
+    background-image:url('../image/icon.png');
     background-size: cover;
     background-position:center;
     border-radius:50%;
@@ -213,7 +213,7 @@ progress::-moz-progress-bar {
 .container {
     position: relative;
     margin: 0 auto;
-    width: 1050px;
+    width: 1200px;
     height: 1500px;
     background-color: white;
 
@@ -221,7 +221,7 @@ progress::-moz-progress-bar {
 
 .side {
     position: absolute;
-    width: 360px;
+    width: 380px;
     height: 100%;
     background-color: whitesmoke;
     padding-left: 20px;
@@ -231,7 +231,7 @@ progress::-moz-progress-bar {
 .main {
     
     position: relative;;
-    margin-left: 360px;
+    margin-left: 380px;
     min-height: 100%;
     padding: 20px;
 
